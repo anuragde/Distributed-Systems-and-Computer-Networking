@@ -1,0 +1,15 @@
+[submodule "Routing-Protocols"]
+	path = Routing-Protocols
+	url = https://github.com/anuragde/Routing-Protocols.git
+[submodule "Wireless-MAC-protocol-NS-2"]
+	path = Wireless-MAC-protocol-NS-2
+	url = https://github.com/anuragde/Wireless-MAC-protocol-NS-2.git
+[submodule "Replicated-Key-Value-Storage"]
+	path = Replicated-Key-Value-Storage
+	url = https://github.com/anuragde/Replicated-Key-Value-Storage.git
+[submodule "Group-Messenger-with-Total-and-FIFO-Ordering-Guarantees"]
+	path = Group-Messenger-with-Total-and-FIFO-Ordering-Guarantees
+	url = https://github.com/anuragde/Group-Messenger-with-Total-and-FIFO-Ordering-Guarantees.git
+[submodule "Simple-DHT"]
+	path = Simple-DHT
+	url = https://github.com/anuragde/Simple-DHT.git
